@@ -1,6 +1,6 @@
 # Coletor de temperatura em tempo real com FPGA
 
-Projeto final para a capacitação embarcatech em FPGA. 
+Projeto final capacitação embarcatech em FPGA. 
 
 Este projeto tem como objetivo utilizar uma FPGA para realizar a medição de temperatura através do sensor BMP280 e enviar os dados coletador para um computador através da UART.
 
