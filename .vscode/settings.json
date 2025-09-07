@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "ratio": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "csr.h": "c",
+        "stdint.h": "c",
+        "ff.h": "c",
+        "spisdcard.h": "c",
+        "stdio.h": "c",
+        "i2c.h": "c",
+        "memory": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "vl53l0x.h": "c"
+    }
+}
